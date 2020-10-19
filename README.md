@@ -1,7 +1,8 @@
 ipython-notebooks
 ========================
 
-<a href="https://notebooks.azure.com/import/gh/jdwittenauer/ipython-notebooks"><img src="https://notebooks.azure.com/launch.png" /></a>
+<a href="https://notebooks.azure.com/import/gh/jdwittenauer/ipython-notebooks"><img src="https://notebooks.azure.com/launch.png" /></a><br>
+<a href="https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fjdwittenauer%2Fipython-notebooks" ><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" /></a>
 
 This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
 
